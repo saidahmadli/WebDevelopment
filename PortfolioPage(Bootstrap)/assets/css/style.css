@@ -1,0 +1,24 @@
+.header{
+    color: #1260e5;
+    border-bottom: 5px solid #1260e5;
+}
+body{
+    background: url(/assets/images/memphis-mini-dark.png);
+    color: #1260e5;
+}
+
+.content{
+    background-color: #1260e5;
+    border-radius: 10px;
+}
+.portfolioText{
+    color: #212529;
+    border-bottom: 1px solid #212529;
+}
+.card-body p{
+    color: #212529;
+}
+.card-body a{
+    text-align: center;
+}
+
