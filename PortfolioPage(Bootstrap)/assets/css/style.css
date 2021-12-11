@@ -21,4 +21,8 @@ body{
 .card-body a{
     text-align: center;
 }
-
+.contact{
+    background-color: #1260e5;
+    padding: 20px;
+    border-radius: 10px;
+}
