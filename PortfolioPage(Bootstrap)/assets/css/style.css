@@ -4,7 +4,6 @@
 }
 body{
     background: url(/assets/images/memphis-mini-dark.png);
-    color: #1260e5;
 }
 
 .content{
@@ -26,3 +25,7 @@ body{
     padding: 20px;
     border-radius: 10px;
 }
+.footer{
+    color: #1260e5;
+}
+
