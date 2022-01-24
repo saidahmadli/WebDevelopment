@@ -19,14 +19,14 @@
 
 <body>
     <div class="container">
-        <h1 class="text-center">Hangman</h1>
-        <div class="float-right">Wrong Guesses: <span id='mistakes'>0</span> of <span id='maxWrong'></span></div>
+        <h1 style="border: 1px solid orange;color:orange;padding: 5px;" class="text-center">Hangman Game</h1>
+        <div style="border: 1px solid red;border-radius: 30px;padding: 15px;" class="float-right">Wrong Guesses: <span id='mistakes'>0</span> of <span id='maxWrong'></span></div>
         <div class="text-center">
           <img id='hangmanPic' src="./assets/images/0.jpg" alt="">
           <p>Guess the Programming Language:</p>
           <p id="wordSpotlight">The word to be guessed goes here</p>
           <div id="keyboard"></div>
-          <button class="btn btn-info" onClick="reset()">Reset</button>
+          <button class="btn btn-danger" onClick="reset()">Reset</button>
         </div> 
       </div>
 
