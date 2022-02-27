@@ -6,3 +6,6 @@ https://codepen.io/saidahmadli/pen/bGowyMm  tap here for a quick preview of my t
 https://codepen.io/saidahmadli/pen/gOGKvdM  tap here for a quick preview of my task.
 ### Rock Paper Scissors
 https://codepen.io/saidahmadli/pen/BamBaVR  tap here for a quick preview of my task.
+### Giphy API
+https://codepen.io/saidahmadli/pen/VwrEwBM  tap here for a quick preview of my task.
+
